@@ -1,9 +1,17 @@
+## HR Demoire (test)
 
+### Models Structure
 
-### Models
+#### overall
+![overall](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/overall%20model.png)
 
+#### netEdge
 ![edge_model](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/edge_model.png)
+
+#### netD
 ![GDN_model](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/GDN_model.png)
+
+### netMerge
 ![netMerge](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/netMerge.png)
 
 ### Qualitative evaluation
