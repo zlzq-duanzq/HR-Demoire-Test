@@ -1,3 +1,13 @@
+
+
+### Models
+
+![overall model](C:\Users\86138\Desktop\paper\overall model.png)
+
+### Qualitative evaluation
+
+![Compare](C:\Users\86138\Desktop\paper\Compare.png)
+
 **To test images**, run
 
 ```python
