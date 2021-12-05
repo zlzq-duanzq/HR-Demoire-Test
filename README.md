@@ -6,7 +6,7 @@
 
 ### Qualitative evaluation
 
-![Compare](C:\Users\86138\Desktop\paper\Compare.png)
+![Compare](web_image\Compare.png)
 
 **To test images**, run
 
