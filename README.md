@@ -6,7 +6,7 @@
 
 ### Qualitative evaluation
 
-![Compare](web_image\Compare.png)
+![Compare](https://github.com/zlzq-duanzq/HR-Demoire-Test/blob/main/web_image/Compare.png)
 
 **To test images**, run
 
