@@ -1,23 +1,27 @@
-## HR Demoire (test)
+# HR Demoire (test)
+## Abstruct
 
-### Models Structure
 
-#### overall
+## Models Structure
+
+### 1. overview
 ![overall](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/overall%20model.png)
 
-#### netEdge
+### 2. netEdge
 ![edge_model](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/edge_model.png)
 
-#### netD
+### 3. netD
 ![GDN_model](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/GDN_model.png)
 
-### netMerge
+### 4. netMerge
 ![netMerge](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/netMerge.png)
 
-### Qualitative evaluation
+## Qualitative evaluation
 
 ![Compare](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/Compare.png)
 
+
+## Test
 **To test images**, run
 
 ```python
