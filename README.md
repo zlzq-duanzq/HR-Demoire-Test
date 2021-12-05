@@ -2,7 +2,9 @@
 
 ### Models
 
-![overall model](C:\Users\86138\Desktop\paper\overall model.png)
+![edge_model](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/edge_model.png)
+![GDN_model](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/GDN_model.png)
+![netMerge](https://raw.githubusercontent.com/zlzq-duanzq/HR-Demoire-Test/main/web_image/netMerge.png)
 
 ### Qualitative evaluation
 
