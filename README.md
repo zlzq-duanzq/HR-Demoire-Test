@@ -2,7 +2,8 @@
 ## Abstruct 
 A morie pattern is an interference pattern produced by overlaying similar but slightly offset templates. Such patterns can be easily generated and observed in reality. For instance, taking a photo of a screen may produce moire pattern on the photo, which can be typically observed as irregular colorful wave-like strips. Moire effect generated accidentally may harm the quality of initial image. Therefore, removing the moire pattern is of great importance in image processing. Recently, many algorithms based on CNN have been proposed, while the majority of them only focused on low-resolution images. However, since high-resolution images and videos become dominant in daily life, this task needs to be completed effectively and efficiently.
 
-In this paper, we propose a new deep neural network based algorithm to remove the moire pattern in high resolution. Quantitative and qualitative experiments demonstrate the superiority of our High Resolution Demoire Network (HRDeNet) to the state-of-the-art.
+In this paper, we propose a new deep neural network to remove the moire pattern in high resolution. 
+We proposed a aroposed a image processing pipeline: Downsample $\rightarrow$ Demoire $\rightarrow$ Super Resolution and Details Restoring from high-resolution. Quantitative and qualitative experiments demonstrate the superiority of our High Resolution Demoire Network (HRDeNet) to the state-of-the-art.
 
 
 
